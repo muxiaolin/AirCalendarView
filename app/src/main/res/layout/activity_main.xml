@@ -13,5 +13,5 @@
         android:layout_height="match_parent"
         app:daySelectOffset="2"
         app:isSelectFuture="false"
-        app:visibleYearCount="2" />
+        app:visibleYearCount="5" />
 </RelativeLayout>
